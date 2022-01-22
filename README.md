@@ -7,10 +7,11 @@ A unique dating app that makes intentions clearer and makes it fun meeting new p
 ## Frontend
 - iOS 
   - Swift UI 
+  - Apollo iOS -> GraphQL client
 
 ## Backend
-- Rust
-  - Rocket backend
+- FastAPI
+- Neo4J with GraphQL => Strawberry
 
 ## Development plans
 v1.0.0
